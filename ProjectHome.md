@@ -1,0 +1,1 @@
+Website giới thiệu cơ bản về bản đồ khái niệm, cho phép người dùng tạo lập, chỉnh sửa, quản lý, chia sẻ các bản đồ khái niệm. Đồng thời website còn thực hiện tự động đánh giá các bản đồ khái niệm được tạo.
